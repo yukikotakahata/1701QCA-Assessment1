@@ -10,15 +10,14 @@
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image](001.png)
 
-(Insert a caption here)
+(The code what I made in the Microsoft MadeCode)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
-
-This experiment could be the basis of a real world application such as (insert something here).
+This is my first experiment with microbit. I have learned the coding strucuture which describes the button and LED.
+I tried to modified the code in order to change the duration, but I could not find the proper code.
 
 ### Experiment name ###
 
