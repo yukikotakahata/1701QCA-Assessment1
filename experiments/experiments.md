@@ -14,6 +14,10 @@
 
 (The code what I made in the Microsoft MadeCode)
 
+![Image](001.mov)
+
+(This is how the micro-bit works on screen)
+
 #### Reflection ####
 
 This is my first experiment with microbit. I have learned the coding strucuture which describes the button and LED.
