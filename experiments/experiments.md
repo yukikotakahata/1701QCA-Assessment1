@@ -1,14 +1,11 @@
 # Inventor Kit Experiments
 
-*Markdown reference: https://guides.github.com/features/mastering-markdown/*
-
 ## Instructions ##
 
 *For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
-### Experiment name ###
+### Experiment 01 ###
 
-(Replace this with the experiment name)
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
@@ -30,15 +27,17 @@ This experiment could be the basis of a real world application such as (insert s
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](experiments/Screen Shot 2020-03-13 at 1.00.30 pm.png)
 
 (Insert a caption here)
 
+
+
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+This is my first experiment with microbit. I have learned the coding strucuture which describes the button and LED.
+I tried to modified the code in order to change the duration, but I could not find the proper code.
 
-This experiment could be the basis of a real world application such as (insert something here).
 
 ### Experiment name ###
 
