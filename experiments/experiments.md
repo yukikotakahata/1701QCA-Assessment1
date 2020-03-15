@@ -1,8 +1,5 @@
 # Inventor Kit Experiments
 
-## Instructions ##
-
-*For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
 ### Experiment 01 ###
 
@@ -25,26 +22,24 @@ I tried to modified the code in order to change the duration of the LED but I co
 
 ### Experiment 2###
 
-(Dimming a LED using a potentiometer)
+## Dimming a LED using a potentiometer ##
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
-
-![Image](experiments/Screen Shot 2020-03-13 at 1.00.30 pm.png)
-
-(Insert a caption here)
-
-
+![Image](031.png)
+(The code what I made in the Microsoft MadeCode)
+![Image](03.jpg)
+(The circuit on the breadboard and how LED worked)
+![Image](031.jpg)
+(I moved the S1 switch and sentting of the jump wires.then I confirmed it was still working.)
 
 #### Reflection ####
+It was very difficult to find out which was the flatside of the LED. Now I found out that the short leg side is the flat side. Also I have noticed the LED has own light strengh depends on their color. Red has most strong light.
+And I struggled to find which is the POT conponent. This was because I had to connect the knob to the POT part. 
+Now I have learned the coding and how swith works(ON/OFF). I am not sure How Digital to Analog Converter works. So I need to look further.
 
-This is my first experiment with microbit. I have learned the coding strucuture which describes the button and LED.
-I tried to modified the code in order to change the duration, but I could not find the proper code.
+### Experiment 3 ###
 
-
-### Experiment name ###
-
-(Replace this with the experiment name)
+## Using a transister to drive a motor ##
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -55,9 +50,8 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, I learned that the role of transister. Transister could convert weak electrical signals into strong signals, that why the motor could work with Microbit. I am prerry sure transister could be used any situation when I want to create something which has some movement.
 
-This experiment could be the basis of a real world application such as (insert something here).
 
 ### Experiment name ###
 
