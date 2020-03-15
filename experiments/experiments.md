@@ -82,7 +82,40 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment 5 ###
 
-(Replace this with the experiment name)
+## To make a dice using seven LEDs. ##
+## To use the ‘Pick Random’ number block. ##
+(Inventors Kit Experiment 12 Full Experiment)
+
+# Following is my code" #
+=======================
+let item = 0
+input.onButtonPressed(Button.A, function () {
+    item = Math.randomRange(0, 5)
+    item = item + 1
+    pins.digitalWritePin(DigitalPin.P0, 0)
+    pins.digitalWritePin(DigitalPin.P1, 0)
+    pins.digitalWritePin(DigitalPin.P2, 0)
+    pins.digitalWritePin(DigitalPin.P8, 0)
+    if (item == 1) {
+        pins.digitalWritePin(DigitalPin.P0, 1)
+    } else if (item == 2) {
+        pins.digitalWritePin(DigitalPin.P1, 1)
+    } else if (item == 3) {
+        pins.digitalWritePin(DigitalPin.P0, 1)
+        pins.digitalWritePin(DigitalPin.P1, 1)
+    } else if (item == 4) {
+        pins.digitalWritePin(DigitalPin.P1, 1)
+        pins.digitalWritePin(DigitalPin.P8, 1)
+    } else if (item == 5) {
+        pins.digitalWritePin(DigitalPin.P0, 1)
+        pins.digitalWritePin(DigitalPin.P1, 1)
+        pins.digitalWritePin(DigitalPin.P8, 1)
+    } else if (item == 6) {
+        pins.digitalWritePin(DigitalPin.P1, 1)
+        pins.digitalWritePin(DigitalPin.P2, 1)
+        pins.digitalWritePin(DigitalPin.P8, 1)
+    }
+})
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
