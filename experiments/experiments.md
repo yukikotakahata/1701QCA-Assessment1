@@ -20,16 +20,16 @@
 This is my first experiment with microbit. I have learned the coding strucuture which describes the switch buttons and LED matrix.SW1 was set as Button A, SW2 was set as Button B. I understand that Edge pin 0V worked as GND pin.
 I tried to modified the code in order to change the duration of the LED but I could not find the proper code.
 
-### Experiment 2###
+### Experiment 2 ###
 
 ## Dimming a LED using a potentiometer ##
 
 #### Photo of completed project ####
 ![Image](031.png)
 (The code what I made in the Microsoft MadeCode)
-![Image](03.jpg)
+![Image](03.png)
 (The circuit on the breadboard and how LED worked)
-![Image](031.jpg)
+![Image](0311.png)
 (I moved the S1 switch and sentting of the jump wires.then I confirmed it was still working.)
 
 #### Reflection ####
