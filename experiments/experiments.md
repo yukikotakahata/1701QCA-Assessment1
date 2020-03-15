@@ -28,28 +28,31 @@ I tried to modified the code in order to change the duration of the LED but I co
 ## Dimming a LED using a potentiometer ##
 
 #### Photo of completed project ####
-![Image](0311.png)
-(The code what I made in the Microsoft MadeCode
+![Image](031.png)
+The code what I made in the Microsoft MadeCode
 
 
 ![Image](020.png)
-(The circuit on the breadboard and how LED worked)
+The circuit on the breadboard and how LED worked
 
 
 ![Image](021.png)
-(I moved the S1 switch and sentting of the jump wires.then I confirmed it was still working.)
+I moved the S1 switch and sentting of the jump wires.then I confirmed it was still working.
 
 #### Reflection ####
 It was very difficult to find out which was the flatside of the LED. Now I found out that the short leg side is the flat side. Also I have noticed the LED has own light strengh depends on their color. Red has most strong light.
 And I struggled to find which is the POT conponent. This was because I had to connect the knob to the POT part. 
 Now I have learned the coding and how swith works(ON/OFF). I am not sure How Digital to Analog Converter works. I understand in the code which discribes: analogue write pins to digital write pin.. However, I need to look further.
 
+
+
+
 ## Experiment 3 ##
 
 ### Using a transister to drive a motor ###
 
 
-![Image](031.png)
+![Image](0311.png)
 The code what I made in the Microsoft MadeCode
 
 
