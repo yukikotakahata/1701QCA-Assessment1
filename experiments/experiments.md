@@ -20,12 +20,12 @@
 
 #### Reflection ####
 
-This is my first experiment with microbit. I have learned the coding strucuture which describes the button and LED.
-I tried to modified the code in order to change the duration, but I could not find the proper code.
+This is my first experiment with microbit. I have learned the coding strucuture which describes the switch buttons and LED matrix.SW1 was set as Button A, SW2 was set as Button B. I understand that Edge pin 0V worked as GND pin.
+I tried to modified the code in order to change the duration of the LED but I could not find the proper code.
 
-### Experiment name ###
+### Experiment 2###
 
-(Replace this with the experiment name)
+(Dimming a LED using a potentiometer)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
