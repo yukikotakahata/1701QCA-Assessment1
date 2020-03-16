@@ -21,6 +21,7 @@ This is how the micro-bit works
 #### Reflection ####
 
 This is my first experiment with microbit. I have learned the coding strucuture which describes the switch buttons and LED matrix.SW1 was set as Button A, SW2 was set as Button B. I understand that Edge pin 0V worked as GND pin.
+
 I tried to modified the code in order to change the duration of the LED but I could not find the proper code.
 
 ## Experiment 2 ##
@@ -53,14 +54,15 @@ Now I have learned the coding and how swith works(ON/OFF). I am not sure How Dig
 
 
 ![Image](0311.png)
-The code what I made in the Microsoft MadeCode
+
+|The code what I made in the Microsoft MadeCode
 
 
 ![Image](0333.png)
-The circuit on the breadboard
+|The circuit on the breadboard
 
 ![Image](0322.png)
-Fan was spinning! Slowing down and speeding up!
+|Fan was spinning! Slowing down and speeding up!
 
 #### Reflection ####
 
@@ -72,61 +74,52 @@ In this experiment, I learned that the role of transister. Transister could conv
 ### Using the accelerometer to control motor speed ###
 
 ![Image](0344.png)
-Fan started moving when accelerometer detect the deirections.I had no idea about the the structure of 3 dimentions in coding.
 
 
 #### Reflection ####
 
-In this experiment, 
-This experiment could be the basis of a real world application such as (insert something here).
+Fan started moving when accelerometer detect the deirections.I had no idea about the the structure of 3 dimentions in coding.
+(x,y,z..etc) I need to look further about this.
 
-### Experiment 5 ###
+
+
+## Experiment 5 ##
+
+### Setting the tone with a piezo buzzer ###
+
+![Image](0501.png)
+![Image](0503.png)
+![Image](0511.png)
+
+#### Reflection ####
+
+I had playing around with a lot of music patterns. And I set some LED code which links to the switches. Now I am confident of the switch and LED systems. It will be the key factor of my replication project.
+
+### Experiment 6' ###
 
 ## To make a dice using seven LEDs. ##
 ## To use the ‘Pick Random’ number block. ##
-(Inventors Kit Experiment 12 Full Experiment)
+|Inventors Kit Experiment 12 Full Experiment|
 
 # Following is my code" #
-=======================
-let item = 0
-input.onButtonPressed(Button.A, function () {
-    item = Math.randomRange(0, 5)
-    item = item + 1
-    pins.digitalWritePin(DigitalPin.P0, 0)
-    pins.digitalWritePin(DigitalPin.P1, 0)
-    pins.digitalWritePin(DigitalPin.P2, 0)
-    pins.digitalWritePin(DigitalPin.P8, 0)
-    if (item == 1) {
-        pins.digitalWritePin(DigitalPin.P0, 1)
-    } else if (item == 2) {
-        pins.digitalWritePin(DigitalPin.P1, 1)
-    } else if (item == 3) {
-        pins.digitalWritePin(DigitalPin.P0, 1)
-        pins.digitalWritePin(DigitalPin.P1, 1)
-    } else if (item == 4) {
-        pins.digitalWritePin(DigitalPin.P1, 1)
-        pins.digitalWritePin(DigitalPin.P8, 1)
-    } else if (item == 5) {
-        pins.digitalWritePin(DigitalPin.P0, 1)
-        pins.digitalWritePin(DigitalPin.P1, 1)
-        pins.digitalWritePin(DigitalPin.P8, 1)
-    } else if (item == 6) {
-        pins.digitalWritePin(DigitalPin.P1, 1)
-        pins.digitalWritePin(DigitalPin.P2, 1)
-        pins.digitalWritePin(DigitalPin.P8, 1)
-    }
-})
+![Image](06C.png)
+![Image](06CC.png)
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](0603.png)
 
+|The bread board what i made
+
+![Image](0601.png)
+|Random LED light up when the switch A was pressed #case1
+
+![Image](0602.png)
+|Random LED light up when the switch A was pressed.#case2
 (Insert a caption here)
 
+![Image](0603.png)
+![Image](06CCC.png)
+|In order to confirm the selected number and the number of the LED is same, I set the code to show the number on the microbit display
 #### Reflection ####
-
-In this experiment, something new to me was or something I learned was (insert something here).
-
-This experiment could be the basis of a real world application such as (insert something here).
-
+This was very complecated breadboard structure. I needed 3 tries to complete.  I have learned that the code to set the random number.
