@@ -67,16 +67,20 @@ For this project, I really sticking the hat to being wearable. In terms of use, 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+I have never thought that I could make something "whole new dimension of product design"!
+
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+The useful parts anf information source and security issues around this area of study.Firmata/Ardino Fio/Xbee/jst plug/ privacy issues/
+
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+I would like to know how to get the proper electricity without bad look!
 
 
 ## Interaction flowchart ##
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
+
 
 
 ![Image](flow.png)
@@ -84,11 +88,19 @@ For this project, I really sticking the hat to being wearable. In terms of use, 
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
+- We need 2 people
+- People A will tell a bad word and swear to People B
+- People B will wear the hat.
 
-*This should have quite a lot of information!*
+1. B wears the hat
+2. Hat's swicth on
+3. Sensor gets the room temprature
+4. A starts to swear B( keeping on)
+5. Sensor getsB's body tempreture
+6. LED shows the change of the temprature 
+7. Gauge meter keep going up to "MAD"
+8. B will surprised that his/her body tempreture goes up with just few bad words!
 
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
 ![Image](diagram.png)
 
@@ -161,8 +173,13 @@ I really would like to use more powerful servo motors to create more active move
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
 
+I have checked 
+-Microbit information( mapping of the sensor)
+-how the servo motor moves-
+-How to connect the wire with Alligator pins.
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
+This hat could be transformed into the interectual game with souds and movements.
