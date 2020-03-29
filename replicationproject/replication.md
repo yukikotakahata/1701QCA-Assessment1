@@ -72,7 +72,8 @@ This project is related to mine because it is useful to know how to got the accu
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
 
-![Image](1st flow.png)
+![Image](flow.png)
+
 
 ## Process documentation
 
@@ -85,7 +86,6 @@ This project is related to mine because it is useful to know how to got the accu
 ![Image](diagram.png)
 
 
-*Include screenshots of the code you have used.*
 
 ## Project outcome ##
 
@@ -102,19 +102,8 @@ The system is;
 
 
 ### Showcase image ###
-![Image]
+![Image](ANGRYMATER.jpg)
 
-
-
-
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-
-### Additional view ###
-
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
 
 ### Reflection ###
 
@@ -150,29 +139,18 @@ This is the FINAL OUT FIT
 
 ## CODE ##
 
-
 To confirm the servo motor　works well with this setting,
 ![Image](servocode.png)
 ![Image](finalsetting.png)
 Now it works!
 
-In this final setting, microbot goes upside down, so LED codes need to be changed as up side down.
-
-
-
-
-
-
-
-
-
-
-
-
+I set the range of temparatures:and I also tried to control the servo motor accurately which could relate to the real body temprature. but it is little bit complecated . so I gave up.
+!![Image](taion5 png)
 
 
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
 
+I really would like to use more powerful servo motors to create more active movement around the hat, if I could have an opppotunity to improve. Even it seemed the needle of the scale was bit heavy for this servo motor.
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
 
