@@ -13,12 +13,12 @@
 https://youtu.be/rZ-EzeXdLJo
 
 
-This project is related to mine because it shows how to express the feelings with the technologies.
+This project is related to mine because it shows a good example how technologies relates to express the feelings.
 
 ### Related project 2 ###
 ( A cap with propela)
-![Image]
-This project is related to mine because, this gave me a idea that how to modify the cap/hat.
+![Image](propelacap.png)
+This project is related to mine because, this gave me a idea that how to modify the cap/hat fabrication.
 
 ### Related project 3 ###
 (Grrr MATER)
@@ -28,7 +28,8 @@ This project is related to  mine because this is the function what I wanted to c
 
 ### Related project 4 ###
 （Head Themometer strip)
-![Image](
+![Image](thermo1.png)
+![Image](thermo2.png)
 This project is related to mine because it is useful to know how to got the accurate human tempreture.
 
 
@@ -72,7 +73,7 @@ This project is related to mine because it is useful to know how to got the accu
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
 
-![Image](1stflow.png)
+![Image](1st flow.png)
 
 ## Process documentation
 
@@ -84,7 +85,6 @@ This project is related to mine because it is useful to know how to got the accu
 
 ![Image](diagram.png)
 
-![Image](flow1.png)
 
 *Include screenshots of the code you have used.*
 
@@ -103,13 +103,13 @@ The system is;
 
 
 ### Showcase image ###
+![Image]
 
 
 
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
 
 ### Additional view ###
 
@@ -118,6 +118,8 @@ The system is;
 ![Image](missingimage.png)
 
 ### Reflection ###
+
+## OUTFIT##
 
 * I regret that I planned this hat to be portable.Therefore I could not use bread board, so the servo motor is the maximum function which I could add to this project. If I could you the bread boad, These hat can be more fun with sounds, fun, light etc.
 
@@ -144,7 +146,24 @@ Then, I chose a soft form, I think it was a good choice. Cut and fix very easily
 But inside of the hat is very messy..
 ![Image](inside.png)
 
-This is the out
+This is the FINAL OUT FIT
+![Image](outcome2.png)
+
+## CODE ##
+
+
+To confirm the servo motor　works well with this setting,
+![Image](servocode.png)
+![Image](finalsetting.png)
+Now it works!
+
+In this final setting, microbot goes upside down, so LED codes need to be changed as up side down.
+
+
+
+
+
+
 
 
 
