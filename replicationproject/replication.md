@@ -13,8 +13,6 @@
 https://youtu.be/rZ-EzeXdLJo
 
 
-![Image](missingimage.png)
-
 This project is related to mine because it shows how to express the feelings with the technologies.
 
 ### Related project 2 ###
@@ -30,7 +28,7 @@ This project is related to  mine because this is the function what I wanted to c
 
 ### Related project 4 ###
 （Head Themometer strip)
-![Image]
+![Image](
 This project is related to mine because it is useful to know how to got the accurate human tempreture.
 
 
@@ -74,7 +72,7 @@ This project is related to mine because it is useful to know how to got the accu
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
 
-![Image](missingimage.png)
+![Image](1stflow.png)
 
 ## Process documentation
 
@@ -84,21 +82,30 @@ This project is related to mine because it is useful to know how to got the accu
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image](missingimage.png)
+![Image](diagram.png)
+
+![Image](flow1.png)
 
 *Include screenshots of the code you have used.*
 
 ## Project outcome ##
 
-*Complete the following information.*
-
-### Project title ###
+### ANGRY MATER ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+*This hat tricks people who are wearing this hat.
+Once a tester is wearing the hat, the moderator tells several unpleasant sentences to the tester. Tester is getting furious, and the gauge shows how angry the tester is.
+The system is;
+1. Microbit gets the room temperature when the switch is on( average 25-32 in Gold Coast)
+2. A tester wearing the hat, microbit gets the tester's body temperature, other than the room temperature. The average body temperature is around 36-37. 
+3. The gauge shows the tester is MAD!! and the tester would be in more confusion!*
+
 
 ### Showcase image ###
+
+
+
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
@@ -111,6 +118,40 @@ This project is related to mine because it is useful to know how to got the accu
 ![Image](missingimage.png)
 
 ### Reflection ###
+
+* I regret that I planned this hat to be portable.Therefore I could not use bread board, so the servo motor is the maximum function which I could add to this project. If I could you the bread boad, These hat can be more fun with sounds, fun, light etc.
+
+Also I regret that I could not get the proper pins from the shop as I am in self isolation. 
+The lack of the knowledge put me in war with electric wires. In very early stage, I connected the servo motor via an alligator plug, and a male to female wire to Microbit.(as follow as youtube tutrial) However,the motor did not work well.Then I decided to cut off the wire . This was the startpoint of my nightmare.
+
+![Image](cut1.png)
+![Image](servo.png)
+
+Then I connect the end of wire into each aligator pins.
+![Image](aligator.png)
+![Image](servoandaligator.png)
+
+The fabilcation of the hat was very difficult and very unstable. I should have had to choose more solid one.
+I needed to create the case for Microbit because it has to stay inside the hat in order to get the body tempreture. 
+Firstly, I select the fabric to saw the case for microbit, This was simply because it was easy to attach to the hat. However it was too soft to hold microbit.
+![Image](hatcut.png)
+![Image](failed.png)
+
+Then, I chose a soft form, I think it was a good choice. Cut and fix very easily.
+![Image](bluecase1.png)
+![Image](bluecase2.png)
+
+But inside of the hat is very messy..
+![Image](inside.png)
+
+This is the out
+
+
+
+
+
+
+
 
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
 
