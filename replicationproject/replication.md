@@ -39,13 +39,20 @@ This project is related to mine because it is useful to know how to got the accu
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading
+
+I just thought it was a concept that I couldn't understand vaguely. However, now  I realise that I didn't understand the range of area which handled by the designers. By incorporating human relationships into the design,I thought there might be countless possibilities.
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
+Signifiers is am important comunication tool, but it could cause misleading.
+Natural Maping leads to immediate understanding. I think mapping could work well than Siginifiers when the experience based design。
+
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I would like to know how analyse the results when verifying the concept model. "Different people may hold different  mental models"
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+For this project, I really sticking the hat to being wearable. In terms of use, it is ok, but as a concept, it would be better to examine the two player's gaze　point and phisical movement.
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
@@ -107,7 +114,7 @@ The system is;
 
 ### Reflection ###
 
-## OUTFIT##
+### OUTFIT ###
 
 * I regret that I planned this hat to be portable.Therefore I could not use bread board, so the servo motor is the maximum function which I could add to this project. If I could you the bread boad, These hat can be more fun with sounds, fun, light etc.
 
@@ -137,7 +144,7 @@ But inside of the hat is very messy..
 This is the FINAL OUT FIT
 ![Image](outcome2.png)
 
-## CODE ##
+### CODE ###
 
 To confirm the servo motor　works well with this setting,
 ![Image](confirmservo.png)
