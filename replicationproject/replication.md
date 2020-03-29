@@ -1,23 +1,38 @@
 # Assessment 1: Replication project
 
-*Fill out the following workbook with information relevant to your project.*
-
-*Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Replication project choice ##
-(Insert the name of the project you chose to replicate.)
+(TEMPARETURE GAUGE)
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+(Honda 3E-A18 Robot)
 
-(Insert URL to project)
+https://youtu.be/rZ-EzeXdLJo
+
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it shows how to express the feelings with the technologies.
+
+### Related project 2 ###
+( A cap with propela)
+![Image]
+This project is related to mine because, this gave me a idea that how to modify the cap/hat.
+
+### Related project 3 ###
+(Grrr MATER)
+
+<div class="tenor-gif-embed" data-postid="15697874" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/grr-meter-anger-rage-anger-meter-gif-15697874">Grr Meter GIF</a> from <a href="https://tenor.com/search/grr-gifs">Grr GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+This project is related to  mine because this is the function what I wanted to create with the function of tempreture gauge.
+
+### Related project 4 ###
+（Head Themometer strip)
+![Image]
+This project is related to mine because it is useful to know how to got the accurate human tempreture.
+
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
@@ -57,6 +72,7 @@ This project is related to mine because (insert reasons here).
 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
+
 
 ![Image](missingimage.png)
 
