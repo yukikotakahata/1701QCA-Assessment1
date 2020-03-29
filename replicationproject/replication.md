@@ -140,12 +140,12 @@ This is the FINAL OUT FIT
 ## CODE ##
 
 To confirm the servo motor　works well with this setting,
-![Image](servocode.png)
-![Image](finalsetting.png)
+![Image](confirmservo.png)
+
 Now it works!
 
 I set the range of temparatures:and I also tried to control the servo motor accurately which could relate to the real body temprature. but it is little bit complecated . so I gave up.
-!![Image](taion5 png)
+!![Image](taion5.png)
 
 
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
