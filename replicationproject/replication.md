@@ -95,7 +95,9 @@ I would like to know how to get the proper electricity without bad look!
 
 ![Image](flow.png)
 
+### COST ###
 
+![Image](cost.png)
 ## Process documentation
 
 - We need 2 people
@@ -113,6 +115,7 @@ I would like to know how to get the proper electricity without bad look!
 
 
 ![Image](diagram.png)
+
 
 
 
@@ -154,7 +157,7 @@ The fabilcation of the hat was very difficult and very unstable. I should have h
 I needed to create the case for Microbit because it has to stay inside the hat in order to get the body tempreture. 
 Firstly, I select the fabric to saw the case for microbit, This was simply because it was easy to attach to the hat. However it was too soft to hold microbit.
 ![Image](hatcut.png)
-![Image](failed.png)
+![Image](failed1.png)
 
 Then, I chose a soft form, I think it was a good choice. Cut and fix very easily.
 ![Image](bluecase1.png)
