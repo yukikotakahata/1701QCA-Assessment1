@@ -57,20 +57,30 @@ For this project, I really sticking the hat to being wearable. In terms of use, 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+I did not know the idea of "Microinteractions" So, it is fun to read to understand the concept. Actually, I often interact with Mincrointeraction many times ,everyday. Even I expect a certain revel of microinteractions in any apps. SO that as a designer, understand the user's expectation is the key.
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I have learned the structure of Microinteractions; There is four steps. 
+Trigger: User act something, then "Many microinterations begin with an understading of user need"
+Rules:determine the function"engages a sequence of behavior"
+Feedback: generate rules/Can take any form, can be subtle and ambient
+LOOPS and MODES: " make up its meta-rules"
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
+"reduce a complicated feature to a core microinteraction" ; makes the project simple, straightforward, and impactful.
+
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+
 I have never thought that I could make something "whole new dimension of product design"!
 
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+
 The useful parts anf information source and security issues around this area of study.Firmata/Ardino Fio/Xbee/jst plug/ privacy issues/
 
 
